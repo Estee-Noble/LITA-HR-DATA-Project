@@ -17,47 +17,11 @@ Summarize employee demographics and job characteristics and Explore patterns of 
 
 Attrition: Indicates if an employee has left the company.
 
+Demographics: Age, gender, education field.
+
 Business Travel: Frequency of travel required by the employee.
 
-Age Band and Gender: Demographic details.
-
-Department and Job Role: Employment details.
-
 Education Field: Employee’s educational background.
-
-Performance Rating and Work Life Balance: Ratings related to performance and work-life balance.
-
-Years at Company and Years with Current Manager: Tenure information.
-
-
-
-
-### Key columns in the Map Data includes:
-
-States: Names of various states.
-
-Longitude and Latitude: Geographical coordinates
-
-Population (2006) and Population (2019): Population data for two years. 
-
-
-### Scope of Analysis 
-This analysis covers various HR aspects including employee demographics, job characteristics, performance metrics, and attrition rates. Additionally, regional population data is available, potentially supporting geographical analysis.
-
-Data Collection
-The dataset consists of two main components:
-
-1. Employee Data: Contains demographic, employment, and performance-related data.
-
-
-2. Geographical Data: 
-
-
-
-Data Collected
-Key variables in the employee data include:
-
-Demographics: Age, gender, education field.
 
 Job Details: Department, role, business travel.
 
@@ -65,16 +29,28 @@ Performance Metrics: Ratings for performance, work-life balance.
 
 Tenure Information: Years at the company and with the current manager.
 
-Geographical Information (optional): Based on state data from the Map Data sheet.
+
+
+### Key columns in the Map Data includes:
+
+States: Names of various states.
+
+Longitude and Latitude: Geographical data information 
+
+Population (2006) and Population (2019): Population data for two years. 
+
+
+### Scope of Analysis 
+This analysis covers various HR aspects including employee demographics, job characteristics, performance metrics, and attrition rates. Additionally, regional population data is available, potentially supporting geographical analysis.
 
 
 Analysis Tools
 
-Data Analysis: Python and Excel for initial data cleaning and descriptive statistics.
+Data Analysis: Excel used for initial data cleaning and descriptive statistics.
 
 Data Visualization: Power BI for interactive visualizations.
 
-Mapping (if applicable): Use geographical data to analyze trends across states.
+Mapping: Use geographical data to analyze trends across states.
 
 
 
