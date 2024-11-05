@@ -4,13 +4,16 @@ This is where i documented my HR-DATA project while learning Data Analysis with 
 
 ## Project Title: HR DATA ANALYSIS REPORT
 
-### Project  Overview: HR Data Report contains various columns that describe employee demographics, job details, and performance metrics and The "Map Data" sheet provides geographical and demographic information
+### Project  Overview: HR Data Report contains various columns that describe employee demographics, job details, and performance metrics and The "Map Data" provides geographical and demographic information
 
-### Project Objective: To analyze employee attrition patterns and identify factors contributing to turnover, performance, and work-life balance. The aim is to uncover insights that could inform retention strategies, optimize HR processes, and improve organizational performance.
+### Project Objectives: 
+#### HR Data:To analyze employee attrition patterns and identify factors contributing to turnover, performance, and work-life balance. The aim is to uncover insights that could inform retention strategies, optimize HR processes, and improve organizational performance.
+
+#### Map Data: 
+Summarize employee demographics and job characteristics and Explore patterns of attrition across different demographic and job-related factors.
 
 
-
-. Key columns include:
+### Key columns in HR Data includes:
 
 Attrition: Indicates if an employee has left the company.
 
@@ -27,28 +30,20 @@ Performance Rating and Work Life Balance: Ratings related to performance and wor
 Years at Company and Years with Current Manager: Tenure information.
 
 
-I'll now review the "Map Data" sheet to determine its role in the analysis.
 
 
 
-
-map data, including:
+### Key columns in the Map Data includes:
 
 States: Names of various states.
 
 Longitude and Latitude: Geographical coordinates.
 
-Population (2006) and Population (2019): Population data for two years.
-
-
-This sheet may support a regional analysis or mapping of employee data if geographic patterns are relevant in the HR dataset.
-
+Population (2006) and Population (2019): Population data for two years. 
 Draft Report Structure
 
-Here's an outline for your analysis report based on these findings:
 
-
-Scope
+### Scope of Analysis 
 This analysis covers various HR aspects including employee demographics, job characteristics, performance metrics, and attrition rates. Additionally, regional population data is available, potentially supporting geographical analysis.
 
 Data Collection
@@ -84,23 +79,7 @@ Data Visualization: Power BI for interactive visualizations.
 Mapping (if applicable): Use geographical data to analyze trends across states.
 
 
-Analytical Approach
-
-1. Descriptive Analysis: Summarize employee demographics and job characteristics.
-
-
-2. Attrition Analysis: Explore patterns of attrition across different demographic and job-related factors.
-
-
-3. Performance & Satisfaction Analysis: Assess how various factors, like years at the company or department, influence employee performance and satisfaction ratings.
-
-
-4. Geographical Analysis (optional): Examine potential correlations between attrition and regional population characteristics.
 
 
 
-
----
-
-Let me know if you'd like to add any specific sections or focus areas in the report, or if you’d like further insights on any aspect of the data.
 
