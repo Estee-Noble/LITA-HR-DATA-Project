@@ -173,7 +173,3 @@ Conclusion
 
 This dashboard provides a comprehensive view of attrition trends, highlighting areas where the organization can focus its efforts to improve employee retention. By addressing factors related to department, age group, gender, and educational background, HR teams can work towards reducing turnover and fostering a more engaged and satisfied workforce.
 
-Let me know if you'd like to refine any sections or add more detailed recommendations.
-
-
-
