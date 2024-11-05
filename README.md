@@ -50,14 +50,19 @@ Data Analysis: Excel used for initial data cleaning and descriptive statistics.
 
 Data Visualization: Power BI for interactive visualizations.
 
-Mapping: Use geographical data to analy
+Mapping: Use geographical data to analyze trends across states.
 
 
 Dashboard Analysis Report
 
-Objective
 
-The primary objective of this dashboard is to analyze employee attrition within the organization, identifying patterns across various demographic and job-related factors. This can help HR and management teams understand key factors contributing to employee turnover and develop strategies to improve retention.
+
+
+
+
+
+
+This helps to analyze employee attrition within the organization, identifying patterns across various demographic and job-related factors. This can help HR and management teams understand key factors contributing to employee turnover and develop strategies to improve retention.
 
 Key Metrics and Visualizations
 
