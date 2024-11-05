@@ -1,4 +1,4 @@
-# LITA-HR-DATA-Project
+# LITA-HR/MAP-DATA-Project
 This is where i documented my HR-DATA project while learning Data Analysis with the Incubator Hub.
 ---
 
@@ -44,7 +44,7 @@ Population (2006) and Population (2019): Population data for two years.
 This analysis covers various HR aspects including employee demographics, job characteristics, performance metrics, and attrition rates. Additionally, regional population data is available, potentially supporting geographical analysis.
 
 
-Analysis Tools
+### Analysis Tools
 
 Data Analysis: Excel used for initial data cleaning and descriptive statistics.
 
