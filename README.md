@@ -50,10 +50,125 @@ Data Analysis: Excel used for initial data cleaning and descriptive statistics.
 
 Data Visualization: Power BI for interactive visualizations.
 
-Mapping: Use geographical data to analyze trends across states.
+Mapping: Use geographical data to analy
+
+
+Dashboard Analysis Report
+
+Objective
+
+The primary objective of this dashboard is to analyze employee attrition within the organization, identifying patterns across various demographic and job-related factors. This can help HR and management teams understand key factors contributing to employee turnover and develop strategies to improve retention.
+
+Key Metrics and Visualizations
+
+1. Overall Employee and Attrition Metrics
+
+Total Number of Employees: 1,470 employees in the dataset.
+
+Attrition Count: 237 employees who have left the organization.
+
+Current Employees: 1,233 employees remain active.
+
+Attrition Rate: 16%, calculated as the proportion of employees who have left.
+
+Average Age: 37 years, providing a sense of the workforce's demographic makeup.
 
 
 
+2. Attrition Count by Department
+
+This pie chart breaks down attrition by department, showing:
+
+R&D: 133 (56%) attrition cases, indicating higher turnover in this department.
+
+Sales: 92 cases.
+
+HR: 12 cases, representing the lowest turnover.
+
+
+
+
+3. Attrition Count by Educational Field
+
+This bar chart displays attrition across educational backgrounds:
+
+Highest attrition rates are in Life Sciences (89), followed by Medical (63) and Marketing (35).
+
+This insight could help HR target retention strategies towards employees with specific educational backgrounds.
+
+
+
+
+4. Attrition by Gender
+
+A pie chart showing gender distribution of attrition:
+
+Male: 150 cases (63.2%).
+
+Female: 87 cases (36.8%).
+
+
+This gender-based breakdown helps identify any disproportionate attrition by gender.
+
+
+
+5. Attrition by Age Group and Gender
+
+A series of charts illustrating attrition in different age brackets:
+
+Under 25: Low attrition, with a near-equal gender split.
+
+25–34: Significant attrition with more males leaving than females.
+
+35–44 and 45–54: Gender differences in attrition are more balanced.
+
+Over 55: Very low attrition, reflecting stability among senior employees.
+
+
+
+
+6. Current Employees by Age Band and Gender
+
+A stacked bar chart showing the count of current employees across age bands by gender:
+
+25–34 and 35–44 are the largest age groups, with similar numbers of males and females.
+
+This data provides context on workforce demographics and helps compare attrition rates with active employees across age groups.
+
+
+
+
+7. Employee Satisfaction by Job Role
+
+This table shows satisfaction levels for each job role, categorized as "satisfied," "dissatisfied," "very satisfied," and "very dissatisfied."
+
+Insights from this table can help identify job roles with lower satisfaction, which may correlate with higher attrition rates.
+
+
+
+8. Educational Field Satisfaction
+
+Another table breaking down satisfaction by educational field, allowing HR to analyze whether certain educational backgrounds correlate with job dissatisfaction.
+
+
+
+
+Summary of Insights
+
+High Attrition in R&D and Sales: These departments show higher turnover, suggesting a need for retention strategies specific to these areas.
+
+Attrition by Age and Gender: Younger employees, particularly in the 25–34 age range, show higher attrition, especially among males.
+
+Educational Background Impact: Employees from Life Sciences and Medical fields have higher attrition, possibly indicating the need for targeted engagement or development programs for these groups.
+
+Job Satisfaction Trends: Job roles with higher dissatisfaction may need a focus on role adjustments, incentives, or support to improve retention.
+
+
+Conclusion
+
+This dashboard provides a comprehensive view of attrition trends, highlighting areas where the organization can focus its efforts to improve employee retention. By addressing factors related to department, age group, gender, and educational background, HR teams can work towards reducing turnover and fostering a more engaged and satisfied workforce.
+
+Let me know if you'd like to refine any sections or add more detailed recommendations.
 
 
 
