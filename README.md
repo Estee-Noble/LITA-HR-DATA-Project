@@ -2,9 +2,9 @@
 This is where i documented my HR-DATA project while learning Data Analysis with the Incubator Hub.
 ---
 
-## Project Title: HR DATA ANALYSIS REPORT
+## Project Title: HR DATA AND MAP DATA REPORT
 
-### Project  Overview: HR Data Report contains various columns that describe employee demographics, job details, and performance metrics and The "Map Data" provides geographical and demographic information
+### Project  Overview: HR Data Report contains various columns that describe employee demographics, job details, and performance metrics and The Map Data provides geographical and demographic information
 
 ### Project Objectives: 
 #### HR Data:To analyze employee attrition patterns and identify factors contributing to turnover, performance, and work-life balance. The aim is to uncover insights that could inform retention strategies, optimize HR processes, and improve organizational performance.
@@ -32,15 +32,13 @@ Years at Company and Years with Current Manager: Tenure information.
 
 
 
-
 ### Key columns in the Map Data includes:
 
 States: Names of various states.
 
-Longitude and Latitude: Geographical coordinates.
+Longitude and Latitude: Geographical coordinates
 
 Population (2006) and Population (2019): Population data for two years. 
-Draft Report Structure
 
 
 ### Scope of Analysis 
@@ -52,7 +50,7 @@ The dataset consists of two main components:
 1. Employee Data: Contains demographic, employment, and performance-related data.
 
 
-2. Geographical Data: Includes state-level population and coordinates, potentially linking employee data with regional trends.
+2. Geographical Data: 
 
 
 
