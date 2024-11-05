@@ -54,8 +54,9 @@ Mapping: Use geographical data to analyze trends across states.
 
 
 Dashboard Analysis Report
+![Annotation HR DATA TRACKER 1](https://github.com/user-attachments/assets/061bf037-7ba2-4896-8887-9eeb7c23628c)
 
-
+![Annotation HR DATA TRACKER 2](https://github.com/user-attachments/assets/2b6f66fb-55df-4c9a-9af3-a2967f20f6f6)
 
 
 
