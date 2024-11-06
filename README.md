@@ -64,7 +64,7 @@ Dashboard Analysis Report
 
 This helps to analyze employee attrition within the organization, identifying patterns across various demographic and job-related factors. This can help HR and management teams understand key factors contributing to employee turnover and develop strategies to improve retention.
 
-Key Metrics and Visualizations
+#### Key Metrics and Visualizations
 
 1. Overall Employee and Attrition Metrics
 
@@ -157,7 +157,7 @@ Another table breaking down satisfaction by educational field, allowing HR to an
 
 
 
-Summary of Insights
+#### Summary of Insights
 
 High Attrition in R&D and Sales: These departments show higher turnover, suggesting a need for retention strategies specific to these areas.
 
@@ -168,7 +168,7 @@ Educational Background Impact: Employees from Life Sciences and Medical fields h
 Job Satisfaction Trends: Job roles with higher dissatisfaction may need a focus on role adjustments, incentives, or support to improve retention.
 
 
-Conclusion
+#### Conclusion
 
 This dashboard provides a comprehensive view of attrition trends, highlighting areas where the organization can focus its efforts to improve employee retention. By addressing factors related to department, age group, gender, and educational background, HR teams can work towards reducing turnover and fostering a more engaged and satisfied workforce.
 
