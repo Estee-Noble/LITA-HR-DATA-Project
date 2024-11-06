@@ -157,15 +157,15 @@ Another table breaking down satisfaction by educational field, allowing HR to an
 
 
 
-#### Summary of Insights
+#### Insights
 
-High Attrition in R&D and Sales: These departments show higher turnover, suggesting a need for retention strategies specific to these areas.
+-  High Attrition in R&D and Sales: These departments show higher turnover, suggesting a need for retention strategies specific to these areas.
 
-Attrition by Age and Gender: Younger employees, particularly in the 25–34 age range, show higher attrition, especially among males.
+-  Attrition by Age and Gender: Younger employees, particularly in the 25–34 age range, show higher attrition, especially among males.
 
-Educational Background Impact: Employees from Life Sciences and Medical fields have higher attrition, possibly indicating the need for targeted engagement or development programs for these groups.
+-  Educational Background Impact: Employees from Life Sciences and Medical fields have higher attrition, possibly indicating the need for targeted engagement or development programs for these groups.
 
-Job Satisfaction Trends: Job roles with higher dissatisfaction may need a focus on role adjustments, incentives, or support to improve retention.
+-  Job Satisfaction Trends: Job roles with higher dissatisfaction may need a focus on role adjustments, incentives, or support to improve retention.
 
 
 #### Conclusion
