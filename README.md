@@ -55,9 +55,12 @@ Mapping: Use geographical data to analyze trends across states.
 
 Dashboard Analysis Report
 
+![Annotation HR DATA TRACKER 1](https://github.com/user-attachments/assets/581283ea-2ac5-4902-9957-fa77f52e8e62)
 
 
+![Annotation HR DATA TRACKER 2](https://github.com/user-attachments/assets/bc7471c5-67a4-40b3-a48c-eb1c424b838e)
 
+![Annotation Map Data](https://github.com/user-attachments/assets/46c0717f-513b-428c-8191-d08062bf4d43)
 
 This helps to analyze employee attrition within the organization, identifying patterns across various demographic and job-related factors. This can help HR and management teams understand key factors contributing to employee turnover and develop strategies to improve retention.
 
